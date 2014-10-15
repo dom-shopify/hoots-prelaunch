@@ -1,6 +1,14 @@
 /*.hero-shadow {
 	background: url(assets/bg.jpg);
 }*/
+.header-logo {
+background: url('https://dl.dropboxusercontent.com/u/27636669/hoots-white.png') 0 0 no-repeat;
+}
+
+.header-logo header is-sticky  {
+background-image: url('https://dl.dropboxusercontent.com/u/27636669/hoots-blue.png') 0 0 no-repeat;
+}
+
 
 .hero {
 	margin-bottom: 2%;
